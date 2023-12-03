@@ -1,0 +1,10 @@
+Stock Name;Chart;Ticker;Bought For;Price Goal
+Tesla;https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch;TSLA;160$;300$
+Alphabet;https://finance.yahoo.com/quote/GOOG?p=GOOG&.tsrc=fin-srch;GOOG;100$;180$
+Apple;https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch;AAPL;120$;200$
+Amazon;https://finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch;AMZN;100$;300$
+Advanced Micro Devices;https://finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch;AMD;115$;130$
+NVIDIA Corporation;https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch;NVDA;450$;600$
+Pinterest;https://finance.yahoo.com/quote/PINS?p=PINS&.tsrc=fin-srch;PINS;30$;35$
+The Kraft Heinz Company;https://finance.yahoo.com/quote/KHC?p=KHC&.tsrc=fin-srch;KHC;35$;50$
+CVS Health Corporation;https://finance.yahoo.com/quote/KHC?p=KHC&.tsrc=fin-srch;CVS;35$;50$;

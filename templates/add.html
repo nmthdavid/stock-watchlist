@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %}Add A New Stock{% endblock %}
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+      <h1>Add a new stock into your watchlist</h1>
+
+      {{ render_form(form, novalidate=True) }}
+
+      <p class="space-above">
+        <a href="{{ url_for('stocks') }}">See all stocks on the watchlist</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

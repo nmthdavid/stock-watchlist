@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}David's Stock Watchlist{% endblock %}
+
+{% block content %}
+<div class="jumbotron text-center">
+  <div class="container">
+    <h1 class="display-4">David's Stock Watchlist</h1>
+    <p class="lead">Here you can collect the stocks you own and you want to track</p>
+    <hr class="my-4" />
+    <p>
+      Feel free to update the database with up to date info and with new transactions
+    </p>
+    <a
+      class="btn btn-warning btn-lg"
+      href="{{ url_for('stocks') }}"
+      role="button"
+      >Show Me!</a
+    >
+  </div>
+</div>
+
+{% endblock %}
